@@ -1,1 +1,2 @@
 es una archivo historico de prueba con git
+es una actaualizacion, ya q se aumenta esta linea 
