@@ -3,7 +3,10 @@ body {
   text-align: center;
   font-family: Arial, Helvetica, sans-serif;
 }
-
+#cabecera {
+  background-color: blue;
+  color: white;
+}
 #container {
   width: 70%;
   padding: 1em;
